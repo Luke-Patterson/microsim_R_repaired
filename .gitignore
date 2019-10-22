@@ -1,0 +1,8 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+csv_inputs
+output/CA.csv
+output/NJ.csv
+.git_old
